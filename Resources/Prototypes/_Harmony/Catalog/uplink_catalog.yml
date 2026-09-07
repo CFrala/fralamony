@@ -284,7 +284,7 @@
   id: UplinkChameleonEVA
   name: uplink-chameleon-eva-bundle-name
   description: uplink-chameleon-eva-bundle-desc
-  productEntity: ClothingBackpackChameleonEVAFillAgent
+  productEntity: ClothingBackpackChameleonEVAFillAgentHarmony
   icon: { sprite: /Textures/Clothing/Head/Hardsuits/mime.rsi, state: icon }
   discountCategory: usualDiscounts
   discountDownTo:
